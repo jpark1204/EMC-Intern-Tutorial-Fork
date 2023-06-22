@@ -4,6 +4,10 @@ interns:
   mentors:
   - Leslie Knope
   - Ron Swanson
+- name: James Park
+  email: james.park@noaa.gov
+  mentor:
+  - Jeff McQueen
 employees:
 - name: Milton Waddams
   email: milton.waddams@noaa.gov
